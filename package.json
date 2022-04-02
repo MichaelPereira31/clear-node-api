@@ -19,6 +19,10 @@
   "homepage": "https://github.com/MichaelPereira31/clear-node-api#readme",
   "devDependencies": {
     "@types/node": "^17.0.23",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-n": "^15.1.0",
+    "eslint-plugin-promise": "^6.0.0",
     "git-commit-msg-linter": "^4.1.1",
     "typescript": "^4.6.3"
   }
