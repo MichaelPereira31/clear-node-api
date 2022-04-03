@@ -4,7 +4,7 @@
  */
 
 export default {
-  roots:['<rootFis/src>'],
+  roots:['<rootDir>/src'],
   collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
   coverageDirectory: "coverage",
   testEnvironment: 'node',
